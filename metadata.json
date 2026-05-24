@@ -1,0 +1,6 @@
+{
+  "name": "Aura",
+  "description": "Minimalist monochrome offline music player with integrated hardware equalizer, smart playlists, lock-screen controls, and advanced Gemini AI context-search & play-along lyrics integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
